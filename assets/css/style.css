@@ -7,3 +7,27 @@
     -o-background-size: cover;
     background-size: cover;
   }
+
+  section{
+    height: 100vh;
+  }
+
+table{
+    font-family: century gothic;
+}
+
+a.navbar-brand{
+    font-family: monospace;
+}
+/*
+#mid-card{
+    position: absolute;
+    top: 150%;
+    left: 70%;
+    transform: translate(-150%,-70%);
+}
+*/
+
+.lead{
+    font-family: century gothic;
+}
